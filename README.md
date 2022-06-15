@@ -1,1 +1,2 @@
-SITE NÃO RESPONSIVO FEITO COM O INTUITO DE DEMONSTRAR MINHAS CAPACIDADES EM HTML E CSS
+Primeiro projeto usando as linguagens HTML e CSS
+Site ainda não responsivo. Problema a ser resolvido em breve ao decorrer da minha aprendizagem
